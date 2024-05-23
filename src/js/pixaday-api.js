@@ -15,3 +15,4 @@ export function getPhotos(query) {
     return res.json();
   });
 }
+// !===========
